@@ -21,8 +21,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: November 2014
 - [ ] Write a blog post on DDDQ
 
-### Backlog: Side Projects :)
+### Backlog: Side Projects
+None.
 
 ### Backlog: Code Things I Want to Do/Play With
-
-test
+None.
