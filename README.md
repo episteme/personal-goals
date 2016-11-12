@@ -15,7 +15,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Read [Domain Driven Design Quickly - InfoQ](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-- [ ] Decide on stretching routine
+- [x] Decide on stretching routine
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 - [x] Start personal goals project
 
