@@ -14,7 +14,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Read and Stretch!
 
 ## Things I'll Do This Week:
-- [ ] [Read The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
+- [ ] Read [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
 - [ ] Stretch 3 times this week. 0/3
 
 ### Things I'll Do This Month: November 2014
